@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@react-three/drei": "^10.0.5",
+    "@react-three/fiber": "^9.1.0",
+    "framer-motion": "^12.6.2",
+    "three": "^0.175.0"
+  }
+}
