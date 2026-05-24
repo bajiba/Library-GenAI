@@ -1,0 +1,3 @@
+// This is just a placeholder - we need to create an actual 3D model file
+// A GLB file is binary and cannot be created through code editing
+// Users would need to place a book.glb 3D model file in the /public/models/ directory 
