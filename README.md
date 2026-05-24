@@ -2,15 +2,6 @@
 
 A modern library management system with AI-powered book recommendations, built using React for the frontend, Flask for the backend, SQLite for the database, and Google's Gemini LLM for intelligent book suggestions.
 
-## Dashboard
-![image](https://github.com/user-attachments/assets/32036220-454c-4183-9cb9-a056796cf3f3)
-
-## Books feature 
-![image](https://github.com/user-attachments/assets/5ca6ca0a-1924-4591-8827-a201a4b59130)
-
-## AI Recommendations
-![image](https://github.com/user-attachments/assets/09e2bc33-d5c0-4643-bed0-45452487b586)
-
 ## Features
 
 - **User Authentication**: Different roles for students, librarians, and administrators
